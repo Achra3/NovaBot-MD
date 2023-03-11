@@ -7,7 +7,7 @@ handler.before = async function (m, {conn, isAdmin, isBotAdmin, isOwner } ) {
 	let chat = global.db.data.chats[m.chat]
 	let te = `En este grupo solo se permite Numero fakes\n los siento sera expulsado del grupo`
 	if (isBotAdmin && chat.onlyLatinos && !isAdmin && !isOwner) {
-   if (m.sender.startsWith('212')) {
+   if (m.sender.startsWith('81')) {
   //global.db.data.users[m.sender].banned = true
  m.reply(te, m.sender)
 conn.groupParticipantsUpdate(m.chat, [m.sender], 'remove')
