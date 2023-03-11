@@ -3,12 +3,8 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['5492266466080', 'NovaBot-MD', true],
-  ['593968585383'],
-  ['5214531173598'],
-  ['50763596565'],
-  ['5492266613038'],
-  ['522411347465']
+  ['21245853611', 'NovaBot-MD', true],
+  ['212677541693']
 ] //Numeros de owner 
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
@@ -53,8 +49,8 @@ global.imagen1 = ['./media/menu1.jpg']
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 // Sticker WM
-global.packname = 'NovaBot-MD'
-global.author = 'NovaBot-MD'
+global.packname = 'JACK BOT'
+global.author = 'TNX | JACK'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -83,7 +79,7 @@ global.maxwarn = '4' // máxima advertencias
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.wm = 'ɴᴏᴠᴀʙᴏᴛ-ᴍᴅ'
-global.wait = '*⌛ _Cargando..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*⌛ _Wait..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
